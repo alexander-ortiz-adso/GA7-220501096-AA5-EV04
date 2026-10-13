@@ -8,7 +8,7 @@ app.use(express.json());
 
 /*
  Tecnologo en Analisis y Desarrollo de Software
- Jose Alexander Ortiz Rubio
+ Jose Alexander Ortiz Rubio // API del proyecto. GA7-220501096-AA5-EV04
  Modulo de agendamiento de citas
  */
 

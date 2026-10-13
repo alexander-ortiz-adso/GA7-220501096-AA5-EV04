@@ -13,5 +13,14 @@
   "dependencies": {
     "express": "^5.2.1",
     "mongoose": "^9.10.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexander-ortiz-adso/GA7-220501096-AA5-EV03.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexander-ortiz-adso/GA7-220501096-AA5-EV03/issues"
+  },
+  "homepage": "https://github.com/alexander-ortiz-adso/GA7-220501096-AA5-EV03#readme"
 }
